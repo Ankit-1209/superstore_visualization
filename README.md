@@ -38,7 +38,7 @@ This project showcases a comprehensive **sales data analysis and visual storytel
 ## 📈 Business Insights
 
 - Sales peak in November–December, indicating seasonal spikes.
-- Some high-discount products show negative profits—opportunity to optimize pricing.
+- Some high-discount products show negative profits - opportunity to optimize pricing.
 - Consumer segment is the largest driver of revenue.
 - Technology category performs best in terms of revenue.
 
